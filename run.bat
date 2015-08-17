@@ -1,0 +1,1 @@
+java -jar target\telnetjob-2-SNAPSHOT.jar username password sessiontime
